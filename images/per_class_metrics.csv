@@ -1,0 +1,41 @@
+Model,Set,Class,Precision,Recall,F1-Score,Support
+Random Forest,Train,T-shirt/top,1.0,1.0,1.0,6000
+Random Forest,Train,Trouser,1.0,1.0,1.0,6000
+Random Forest,Train,Pullover,1.0,1.0,1.0,6000
+Random Forest,Train,Dress,1.0,1.0,1.0,6000
+Random Forest,Train,Coat,1.0,1.0,1.0,6000
+Random Forest,Train,Sandal,1.0,1.0,1.0,6000
+Random Forest,Train,Shirt,1.0,1.0,1.0,6000
+Random Forest,Train,Sneaker,1.0,1.0,1.0,6000
+Random Forest,Train,Bag,1.0,1.0,1.0,6000
+Random Forest,Train,Ankle boot,1.0,1.0,1.0,6000
+Random Forest,Test,T-shirt/top,0.8232,0.866,0.8441,1000
+Random Forest,Test,Trouser,0.9948,0.962,0.9781,1000
+Random Forest,Test,Pullover,0.7717,0.801,0.7861,1000
+Random Forest,Test,Dress,0.8758,0.91,0.8926,1000
+Random Forest,Test,Coat,0.7756,0.826,0.8,1000
+Random Forest,Test,Sandal,0.9756,0.959,0.9672,1000
+Random Forest,Test,Shirt,0.7188,0.588,0.6469,1000
+Random Forest,Test,Sneaker,0.9261,0.953,0.9394,1000
+Random Forest,Test,Bag,0.9587,0.975,0.9668,1000
+Random Forest,Test,Ankle boot,0.9536,0.946,0.9498,1000
+CNN,Train,T-shirt/top,0.9451,0.9587,0.9518,6000
+CNN,Train,Trouser,1.0,0.9875,0.9937,6000
+CNN,Train,Pullover,0.9152,0.9725,0.943,6000
+CNN,Train,Dress,0.9619,0.9847,0.9732,6000
+CNN,Train,Coat,0.958,0.9325,0.9451,6000
+CNN,Train,Sandal,0.9995,0.9982,0.9988,6000
+CNN,Train,Shirt,0.9409,0.8813,0.9102,6000
+CNN,Train,Sneaker,0.9883,0.9893,0.9888,6000
+CNN,Train,Bag,0.9972,0.9992,0.9982,6000
+CNN,Train,Ankle boot,0.9893,0.9895,0.9894,6000
+CNN,Test,T-shirt/top,0.8613,0.857,0.8591,1000
+CNN,Test,Trouser,1.0,0.972,0.9858,1000
+CNN,Test,Pullover,0.8179,0.903,0.8584,1000
+CNN,Test,Dress,0.9115,0.937,0.9241,1000
+CNN,Test,Coat,0.8878,0.839,0.8627,1000
+CNN,Test,Sandal,0.9839,0.979,0.9815,1000
+CNN,Test,Shirt,0.7641,0.716,0.7393,1000
+CNN,Test,Sneaker,0.9574,0.967,0.9622,1000
+CNN,Test,Bag,0.9684,0.982,0.9752,1000
+CNN,Test,Ankle boot,0.969,0.969,0.969,1000
