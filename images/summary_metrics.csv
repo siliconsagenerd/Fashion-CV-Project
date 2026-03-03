@@ -1,5 +1,5 @@
 Model,Set,Accuracy,Macro Precision,Macro Recall,Macro F1
 Random Forest,Train,1.0,1.0,1.0,1.0
 Random Forest,Test,0.8786,0.8774,0.8786,0.8771
-CNN,Train,0.9693,0.9695,0.9693,0.9692
-CNN,Test,0.9121,0.9121,0.9121,0.9117
+CNN,Train,0.9585,0.9602,0.9585,0.9587
+CNN,Test,0.9022,0.9059,0.9022,0.9027

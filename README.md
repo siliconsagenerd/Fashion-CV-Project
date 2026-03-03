@@ -41,13 +41,13 @@ Trained for 10 epochs with Adam optimiser and sparse categorical cross-entropy l
 
 | Metric | Random Forest | CNN |
 |--------|--------------|-----|
-| Accuracy | 87.86% | 91.40% |
-| Macro Precision | 87.74% | 91.41% |
-| Macro Recall | 87.86% | 91.40% |
-| Macro F1 | 87.71% | 91.35% |
+| Accuracy | 87.86% | 90.22% |
+| Macro Precision | 87.74% | 90.59% |
+| Macro Recall | 87.86% | 90.22% |
+| Macro F1 | 87.71% | 90.27% |
 | Training Time | ~49 s | ~135 s |
 
-The Random Forest achieves 100% training accuracy, indicating overfitting to the training data. The CNN generalises better, reaching ~97% on train and ~91% on test.
+The Random Forest achieves 100% training accuracy, indicating overfitting to the training data. The CNN generalises better, reaching ~96% on train and ~90% on test.
 
 Both models struggle most with **Shirt**, which is visually similar to T-shirt/top, Pullover, and Coat in 28×28 grayscale.
 
